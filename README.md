@@ -1,1 +1,1 @@
-Exercício da aula 4 da disciplina de fundamentos de software do meu curso de bacharelado
+Exercício da aula 4 da disciplina de Fundamentos de Software do meu curso de bacharelado em Engenharia de Software
